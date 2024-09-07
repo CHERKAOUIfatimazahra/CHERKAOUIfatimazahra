@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fatima Zahra Cherkaoui</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-- 👨‍💻 All of my projects are available at [fatimazahra-cherkaoui](fatimazahra-cherkaoui)
 
 - 📫 How to reach me **cherkaoui.fatimazahra97@gmail.com**
 
