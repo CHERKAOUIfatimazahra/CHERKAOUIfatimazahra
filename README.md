@@ -3,9 +3,10 @@
 ## 🚀 About Me
 Passionnée de développement web et mobile, je combine créativité technique et solutions innovantes pour résoudre des problèmes complexes.
 
+---
+
 ## 💻 Tech Stack
-<div align="center">
-  
+
 ### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -34,33 +35,23 @@ Passionnée de développement web et mobile, je combine créativité technique e
 ![Docker](https://img.shields.io/badge/-Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05033?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2671E5?style=flat-square&logo=githubactions&logoColor=white)
-</div>
-
-## 📊 GitHub Stats
-For the most up-to-date GitHub statistics, please visit:
-- GitHub Profile: https://github.com/CHERKAOUIfatimazahra
-- GitHub Stats: 
-  - Repositories: [View on GitHub](https://github.com/CHERKAOUIfatimazahra?tab=repositories)
-  - Profile Overview: [GitHub Profile](https://github.com/CHERKAOUIfatimazahra)
-
-## 🌐 Connect with Me
-<div align="center">
-  <a href="https://linkedin.com/in/fatimazahra-cherkaoui" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://medium.com/@cherkaoui.fatimazahra97" target="_blank">
-    <img src="https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium"/>
-  </a>
-  <a href="https://discord.gg/fatimazahr" target="_blank">
-    <img src="https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-  <a href="https://stackoverflow.com/users/28805612" target="_blank">
-    <img src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
-  </a>
-  <a href="https://x.com/@FatimaZahr91055" target="_blank">
-    <img src="https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white" alt="X"/>
-  </a>
-</div>
 
 ---
+
+## 📊 GitHub Stats
+Pour des statistiques GitHub à jour, veuillez visiter :
+- **GitHub Profile** : [Fatima Zahra Cherkaoui](https://github.com/CHERKAOUIfatimazahra)
+- **Repositories** : [Voir les Repos](https://github.com/CHERKAOUIfatimazahra?tab=repositories)
+
+---
+
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/fatimazahra-cherkaoui)
+[![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@cherkaoui.fatimazahra97)
+[![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/fatimazahr)
+[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/28805612)
+[![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/@FatimaZahr91055)
+
+---
+
 *Powered by passion, fueled by coffee ☕*
