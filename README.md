@@ -43,23 +43,7 @@ const fatimaZahra = {
 
 ## 🌍 Let's Connect
 
-<p align="center">
-  <a href="https://linkedin.com/in/fatimazahra-cherkaoui">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://medium.com/@cherkaoui.fatimazahra97">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium"/>
-  </a>
-  <a href="https://discord.gg/fatimazahr">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-  <a href="https://stackoverflow.com/users/28805612">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
-  </a>
-  <a href="https://x.com/@FatimaZahr91055">
-    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"/>
-  </a>
-</p>
+<p align="center"> <a href="https://linkedin.com/in/fatimazahra-cherkaoui"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://medium.com/@cherkaoui.fatimazahra97"> <img src="https://img.shields.io/badge/Medium-%2312100E.svg?style=flat-square&logo=medium&logoColor=white" alt="Medium"/> </a> <a href="https://discord.gg/fatimazahr"> <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=flat-square&logo=discord&logoColor=white" alt="Discord"/> </a> <a href="https://stackoverflow.com/users/28805612"> <img src="https://img.shields.io/badge/Stack_Overflow-%23FE7A16.svg?style=flat-square&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/> </a> <a href="https://x.com/@FatimaZahr91055"> <img src="https://img.shields.io/badge/X-%23000000.svg?style=flat-square&logo=x&logoColor=white" alt="X"/> </a> </p>
 
 ## 📈 My GitHub Journey
 
