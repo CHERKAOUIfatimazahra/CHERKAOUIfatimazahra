@@ -5,8 +5,7 @@
 const fatimaZahra = {
   role: "Full Stack Developer",
   passion: "Building innovative web solutions",
-  currentFocus: ["Web Development", "Mobile Apps", "Cloud Technologies"],
-  motto: "Code is poetry in motion"
+  currentFocus: ["Web Development", "Mobile Apps", "Cloud Technologies"]
 }
 ```
 
